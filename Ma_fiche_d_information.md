@@ -14,10 +14,13 @@ Aller en Bts SIO ou en IUT
 
 si BTs SIO alors avec option sisr
 
-pas encore regarder je comptais le faire cet après-midi
+Le BTS option SISR permet d'acquérir des compétences dans 3 domaines d'activités :
+-En support et mise à disposition de services informatiques 
+-En cybersécurité des services informatiques 
+-En administration des systèmes et des réseaux
 
 
 
-###### Ressenti
+#### Ressenti du 1er trimestre
 Premier trimestre satisfaisant pour ma part je trouve que je m'en sors plus tot bien pour ce debut d'année 
 mais faut que j'essaye de m'investir de m'accrocher le plus possible à la philosophie car c'est pas ma tasse de thé
