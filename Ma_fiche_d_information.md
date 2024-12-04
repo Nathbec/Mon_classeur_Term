@@ -8,6 +8,15 @@ Orientation: Dans l'assurance peut-être mais je ne sais pas trop. Je veux un m�
 
 ### Après 1er Trimestre
 
-Idée d'orientation: Hotellerie/ Cuisine ou Management/ Gestion  
+Idée d'orientation: Hotellerie ou Management/ Gestion  
 
 Aller en Bts SIO ou en IUT
+
+si BTs SIO alors avec option sisr
+
+aucune idée de future ecole
+
+
+
+###### Ressentie 
+bon premier trimestre 
