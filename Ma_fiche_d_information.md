@@ -10,7 +10,7 @@ Orientation: Dans l'assurance peut-être mais je ne sais pas trop. Je veux un m�
 
 Idée d'orientation: Hotellerie ou Management/ Gestion  
 
-Aller en Bts SIO ou en IUT
+Aller en Bts SIO 
 
 si BTs SIO alors avec option sisr
 
