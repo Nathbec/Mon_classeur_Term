@@ -14,9 +14,10 @@ Aller en Bts SIO ou en IUT
 
 si BTs SIO alors avec option sisr
 
-aucune idée de future ecole
+pas encore regarder je comptais le faire cet après-midi
 
 
 
-###### Ressentie 
-bon premier trimestre 
+###### Ressenti
+Premier trimestre satisfaisant pour ma part je trouve que je m'en sors plus tot bien pour ce debut d'année 
+mais faut que j'essaye de m'investir de m'accrocher le plus possible à la philosophie car c'est pas ma tasse de thé
