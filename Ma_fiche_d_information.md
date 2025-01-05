@@ -42,3 +42,31 @@ mais faut que j'essaye de m'investir de m'accrocher le plus possible à la philo
 BUT 
 BIO INFO FAC
 GEA
+
+Toutes les écoles post bac pour le BTS SIO 
+- Lycée François Rabelais
+- Lycée Jean Chaptal
+- Lycée Notre Dame de la Paix
+- Lycée Felix le Dantec
+- Ecole AFTEC Vannes 
+- Lycée St Louis 
+- Pole BTS Alternance Brest
+- Lycée Estran Charles de Foucauld
+
+Rennes:
+- Groupe AFTEC
+- Lycée Victor et Hélène BASCH
+- CFA du Groupe AFTEC
+- Campus Eductive
+- Pole BTS Alternance
+- ESNA Bretagne
+- Lycée/Pole Sup de La Salle
+- CFA CMA
+- ESUP Rennes
+
+Toutes les écoles post bac pour le GEA 
+- IUT de Quimper
+- IUT de Rennes
+- Lycée professionnel Agricole Saint Yves
+- IUT de St-Malo
+- 
