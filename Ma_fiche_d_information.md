@@ -47,31 +47,21 @@ GEA
 
 #### Parcours sup
 
-
-
-Toutes les écoles post bac pour le BTS SIO 
-- Lycée François Rabelais
-- Lycée Jean Chaptal
-- Lycée Notre Dame de la Paix
-- Lycée Felix le Dantec
-- Ecole AFTEC Vannes 
-- Lycée St Louis 
+BTS SIO :
 - Pole BTS Alternance Brest
-- Lycée Estran Charles de Foucauld
+- Lycée Felix Le Dantec
 
-Rennes:
-- Groupe AFTEC
-- Lycée Victor et Hélène BASCH
-- CFA du Groupe AFTEC
-- Campus Eductive
-- Pole BTS Alternance
-- ESNA Bretagne
-- Lycée/Pole Sup de La Salle
-- CFA CMA
-- ESUP Rennes
+Bio Info:
+- ISEN
 
-Toutes les écoles post bac pour le GEA 
+Licence en science de la vie et de la terre :
+- Université de Brest
+- UCO
+
+Prépa BCPST :
+- Lycée François René de Chateaubriand
+
+GEA : 
 - IUT de Quimper
 - IUT de Rennes
-- Lycée professionnel Agricole Saint Yves
-- IUT de St-Malo
+
