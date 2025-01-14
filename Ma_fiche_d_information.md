@@ -45,7 +45,9 @@ BIO INFO FAC
 GEA
 
 
-#### Parcours sup
+#### Parcours
+
+ISI MEPI : 
 
 BTS SIO :
 - Pole BTS Alternance Brest
