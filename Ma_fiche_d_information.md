@@ -46,7 +46,7 @@ GEA
 
 #### Liens
 
-[Portail_ISI_UBO]https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=35683&typeBac=0&originePc=0
+[Portail_ISI_UBO](https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=35683&typeBac=0&originePc=0)
 
 [licence_science_de_la_vie_UBO](https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/licence-XA/licence-mention-sciences-de-la-vie-INR9859P.html)
 
