@@ -38,12 +38,6 @@ les mêmes que l'option SISR
 Premier trimestre satisfaisant pour ma part je trouve que je m'en sors plus tot bien pour ce debut d'année 
 mais faut que j'essaye de m'investir de m'accrocher le plus possible à la philosophie car c'est pas ma tasse de thé
 
-
-
-BUT 
-BIO INFO FAC
-GEA
-
 #### Liens
 
 [Portail_ISI_UBO](https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=35683&typeBac=0&originePc=0)
@@ -78,10 +72,24 @@ GEA :
 - IUT de Quimper
 - IUT de Rennes
 
+## Après 2ème trimestre :
+
+### Ressenti de 2 eme trimestre 
+
+Bon deuxième trimestre dans l'ensemble 
+
 ### Voeux Parcoursup :
 
+1- Portail ISI UBO
+
+2- BTS SIO
+
+3- BUT Informatique
+
+4- Portail BCG UBO
 
 
-Portail ISI/ Portail BCG
+
+
 
 
