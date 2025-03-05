@@ -65,8 +65,3 @@ Bon deuxième trimestre dans l'ensemble
 3- BUT Informatique
 
 4- Portail BCG UBO
-
-
-
-
-
