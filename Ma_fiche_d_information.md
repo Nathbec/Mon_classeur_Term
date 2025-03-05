@@ -50,33 +50,11 @@ mais faut que j'essaye de m'investir de m'accrocher le plus possible à la philo
 
 [BTS_CIEL](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-cybersecurite-informatique-et-reseaux-electronique-option-a-informatique-et-reseaux)
 
-#### Parcours
-
-ISI MEPI : 
-
-BTS SIO :
-- Pole BTS Alternance Brest
-- Lycée Felix Le Dantec
-
-Bio Info:
-- ISEN
-
-Licence en science de la vie et de la terre :
-- Université de Brest
-- UCO
-
-Prépa BCPST :
-- Lycée François René de Chateaubriand
-
-GEA : 
-- IUT de Quimper
-- IUT de Rennes
-
 ## Après 2ème trimestre :
 
 ### Ressenti de 2 eme trimestre 
 
-Bon deuxième trimestre dans l'ensemble 
+Bon deuxième trimestre dans l'ensemble
 
 ### Voeux Parcoursup :
 
@@ -87,7 +65,6 @@ Bon deuxième trimestre dans l'ensemble
 3- BUT Informatique
 
 4- Portail BCG UBO
-
 
 
 
