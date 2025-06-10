@@ -1,3 +1,6 @@
+def multiplication(entier1, entier2):
+    résultat=0
+
 def dichotomie(tab, x):
     """
     tab : tableau d'entiers trié dans l'ordre croissant
@@ -7,13 +10,13 @@ def dichotomie(tab, x):
     debut = 0
     fin = len(tab) - 1
     while debut <= fin:
-        m = ... 
+        m = (debut + fin ) // 2
         if x == tab[m]:
-            return ... 
+            return True 
         if x > tab[m]:
             debut = m + 1
         else:
-            fin = ... 
-    return ... 
+            fin = m- 1 
+    return False 
 
 

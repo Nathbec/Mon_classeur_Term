@@ -2,6 +2,7 @@ def renverse(mot):
     inverse = ''
     for caractere in mot:
         inverse = caractere + inverse
+    return inverse
         
 
 def crible(n):

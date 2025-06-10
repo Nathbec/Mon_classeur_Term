@@ -1,11 +1,11 @@
 def max_et_indice(tab:list)->int:
     max_val = tab[0]
-    max_index = 0
+    max_indice = 0
     for i in range(1, len(tab)):
         if tab[i] > max_val:
             max_val = tab[i]
-            max_index = i
-    return max_val, max_index
+            max_indice = i
+    return max_val, max_indice
 
 def est_un_ordre(tab):
     '''
